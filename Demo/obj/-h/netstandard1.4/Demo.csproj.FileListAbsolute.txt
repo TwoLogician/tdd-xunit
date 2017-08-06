@@ -1,0 +1,6 @@
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo/bin/-h/netstandard1.4/Demo.deps.json
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo/bin/-h/netstandard1.4/Demo.dll
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo/bin/-h/netstandard1.4/Demo.pdb
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo/obj/-h/netstandard1.4/Demo.AssemblyInfo.cs
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo/obj/-h/netstandard1.4/Demo.dll
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo/obj/-h/netstandard1.4/Demo.pdb

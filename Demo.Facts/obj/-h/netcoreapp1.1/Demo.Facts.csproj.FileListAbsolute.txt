@@ -1,0 +1,13 @@
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/bin/-h/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/bin/-h/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/bin/-h/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/bin/-h/netcoreapp1.1/Demo.Facts.deps.json
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/bin/-h/netcoreapp1.1/Demo.Facts.runtimeconfig.json
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/bin/-h/netcoreapp1.1/Demo.Facts.runtimeconfig.dev.json
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/bin/-h/netcoreapp1.1/Demo.Facts.dll
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/bin/-h/netcoreapp1.1/Demo.Facts.pdb
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/bin/-h/netcoreapp1.1/Demo.dll
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/bin/-h/netcoreapp1.1/Demo.pdb
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/obj/-h/netcoreapp1.1/Demo.Facts.AssemblyInfo.cs
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/obj/-h/netcoreapp1.1/Demo.Facts.dll
+/Users/ehiin/SoftwareDeveloper/Project/Demo/Demo.Facts/obj/-h/netcoreapp1.1/Demo.Facts.pdb
